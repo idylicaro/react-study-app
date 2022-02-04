@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/idylicaro/react-study-app.git",
   "author": "Idyl Icaro dos Santos <idylicaro.se@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.0.7"
+  }
 }
